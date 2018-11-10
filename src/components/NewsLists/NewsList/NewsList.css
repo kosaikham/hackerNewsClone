@@ -1,0 +1,34 @@
+.NewsList {
+  background-color: #f6f6ef;
+  padding: 10px;
+}
+
+.NewsList > h4 {
+  margin: 0;
+  padding: 0;
+}
+
+.NewsList > h4 > a {
+  font-weight: 400;
+  color: #000;
+}
+
+.NewsList a {
+  text-decoration: none;
+  color: #828282;
+  /* Careful, this breaks the word wherever it is without a hyphen */
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+}
+
+.Info {
+  font-size: 0.8rem;
+}
+
+.Info a:hover{
+  text-decoration: underline;
+}
+
+.Spacer {
+  height: 5px;
+}
