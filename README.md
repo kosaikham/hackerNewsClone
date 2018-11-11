@@ -3,6 +3,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Description
 This is a small practical react project (plus redux) with Infinite Scroll. Just clone version of [Hacker news](https://news.ycombinator.com/).
 
+[live demo](http://hacker-news-clone-react.s3-website-ap-southeast-1.amazonaws.com/)
+
 
 ## Learn More
 
