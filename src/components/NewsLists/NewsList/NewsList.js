@@ -1,6 +1,6 @@
 import React from 'react';
 import Moment from 'react-moment';
-import 'moment-timezone';
+// import 'moment-timezone';
 import './NewsList.css';
 
 const newsList = props => (
